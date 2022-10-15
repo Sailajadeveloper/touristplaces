@@ -141,7 +141,8 @@ footer{
 .no-border{
   border: none;
 }
-.socialLinks img{
+.socialIcons{
   height: 50px;
   width: 50px;
+  margin-bottom: -3%;
 }
